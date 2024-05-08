@@ -44,8 +44,8 @@ testing.T is struct
 9) t.Parallel() : to test tests in parallel
 
 
-`cmd` : `go test`        >> runs tests in current folder
-        `go test -v`     >> flag verbose for more details
-        `go test ./..`   >>checks for every test files in folder
+`cmd` : `go test`        >> runs tests in current folder ;
+        `go test -v`     >> flag verbose for more details ; 
+        `go test ./..`   >>checks for every test files in folder ;
         `go test -run funcName`   >>to run test on specific function
 
