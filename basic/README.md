@@ -15,6 +15,7 @@ if `file.go` has to be tested then `file_test.go`
            file_test.go 
 or
 2) file >> file.go
+   
    file_test >> file_test.go
 
 `Test Case` :
