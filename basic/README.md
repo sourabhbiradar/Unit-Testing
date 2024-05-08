@@ -12,8 +12,7 @@ if `file.go` has to be tested then `file_test.go`
 
 `path` : 
 1) file >> file.go
-   
-           file_test.go
+   file_test.go
    
 or
 3) file >> file.go
